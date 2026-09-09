@@ -1,0 +1,13 @@
+ai-hr-policy-assistant/
+│
+├── app.py
+├── backend.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+│
+├── policies/
+│   └── hr_policy.txt
+│
+└── .streamlit/
+    └── secrets.toml
